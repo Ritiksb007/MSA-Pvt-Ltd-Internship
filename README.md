@@ -8,7 +8,7 @@ We begin by loading the dataset and examining its structure, including column na
 
 The dataset consists of the following columns: age, sex, bmi, children, smoker, region, charges.
 
-Top 10 rows from the dataset are:
+Top 10 rows from the dataset are: <br>
 age     sex     bmi  children smoker     region      charges <br>
 19    female   27.900 0       yes     southwest 16884.92400 <br>
 18    male     33.770 1       no      southeast 1725.55230 <br>
