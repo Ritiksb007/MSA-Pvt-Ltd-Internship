@@ -9,17 +9,17 @@ We begin by loading the dataset and examining its structure, including column na
 The dataset consists of the following columns: age, sex, bmi, children, smoker, region, charges.
 
 Top 10 rows from the dataset are:
-age     sex     bmi  children smoker     region      charges
-19    female   27.900 0       yes     southwest 16884.92400
-18    male     33.770 1       no      southeast 1725.55230
-28    male     33.000 3       no      southeast 4449.46200
-33    male     22.705 0       no      northwest 21984.47061
-32    male     28.880 0       no      northwest 3866.85520
-31    female   25.740 0       no      southeast 3756.62160
-46    female   33.440 1       no      southeast 8240.58960
-37    female   27.740 3       no      northwest 7281.50560
-37    male     29.830 2       no      northeast 6406.41070
-60    female   25.840 0       no      northwest 28923.13692
+age     sex     bmi  children smoker     region      charges <br>
+19    female   27.900 0       yes     southwest 16884.92400 <br>
+18    male     33.770 1       no      southeast 1725.55230 <br>
+28    male     33.000 3       no      southeast 4449.46200 <br>
+33    male     22.705 0       no      northwest 21984.47061 <br>
+32    male     28.880 0       no      northwest 3866.85520 <br>
+31    female   25.740 0       no      southeast 3756.62160 <br>
+46    female   33.440 1       no      southeast 8240.58960 <br>
+37    female   27.740 3       no      northwest 7281.50560 <br>
+37    male     29.830 2       no      northeast 6406.41070 <br>
+60    female   25.840 0       no      northwest 28923.13692 <br>
 
 
 ## 2. Converting Categorical Values to Numerical
